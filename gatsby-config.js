@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Mike Puangmalai',
-    url: 'https://hiimp.com',
+    url: 'http://www.hiimp.com',
     description: 'Mike Puangmalai is a software developer and tech analyst working with individuals and companies.',
   },
   plugins: [
