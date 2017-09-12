@@ -1,4 +1,5 @@
-# hiimp.com
+# Hi I'm P. Website
+Website [hiimp.com](http://www.hiimp.com) built in React.
 
 ## Install
 - `npm install`
