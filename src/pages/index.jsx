@@ -13,7 +13,7 @@ const Index = ({ location }) => (
     <Fullscreen className={styles.intro} firstItem>
       <Wrapper>
         <h1>
-          Hi. I’m {'{'}Mike{'}'} P.
+          Hi. I’m <Link className={styles.bracklink} to="/about">{'{'}Mike{'}'}</Link> P.
           <br />
           <br />
           I’m a software developer & tech analyst.

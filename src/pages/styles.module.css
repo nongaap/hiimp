@@ -17,6 +17,15 @@
   border-bottom: 3px solid var(--colorWhite);
 }
 
+.link:hover {
+  color: #AFEEEE;
+  border-bottom: 3px solid #AFEEEE;
+}
+
+.bracklink:hover {
+  color: #AFEEEE;
+}
+
 @media (--small) {
   .intro h1 {
     font-size: 1.7142rem;
